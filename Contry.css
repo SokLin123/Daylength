@@ -1,0 +1,64 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.map {
+    width: 100%;
+    height: 109vh;
+    background-color: rgb(99, 164, 203);
+}
+
+.head {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+main {
+    width: 400px;
+    height: 400px;
+}
+
+.Contrey {
+    width: 600px;
+    height: 300px;
+    margin-top: 8%;
+    margin-left: 26%;
+    border-radius: 20px;
+    border: 2px solid #8fbbd3;
+    text-align: center;
+    background-color: aqua;
+}
+
+.Contrey h2 {
+    padding-top: 20px;
+    font-size: 28px;
+}
+
+.con {
+    text-align: center;
+    display: flex;
+}
+
+.phil {
+    margin-top: 50px;
+    margin-left: 20%;
+}
+
+.phil img {
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+}
+
+.cam {
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+.cam img {
+    width: 175px;
+    height: auto;
+    border-radius: 20px;
+}
